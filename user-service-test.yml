@@ -6,6 +6,8 @@ spring:
     url: dbUrl
     username: test
     password: test
-
+jwt:
+  token:
+    key: "{cipher}0c980c401858e55c77fc872b4d99416b9bad7d125ae82191a8c97e4593db3d59415d0e425f373b9d95fc5fe0c721659b"
 default:
   message: test profiles 에서 사용할 설정 정보들
