@@ -2,7 +2,6 @@
 
 spring:
   datasource:
-    driver: com.h2.Driver
-    url: http://new-db-url.com
-    username: admin
-    password: admin
+    url: jdbc:h2:mem:userdb
+    username: sa
+    password: 
