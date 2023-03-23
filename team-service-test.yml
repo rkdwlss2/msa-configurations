@@ -1,2 +1,2 @@
 test:
-  message: this is version2
+  message: this is version 3 update by using ampq-rabbitmq with spring cloud bus
